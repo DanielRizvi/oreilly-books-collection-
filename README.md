@@ -33,36 +33,12 @@ These books are trusted by **developers, engineers, researchers, and students** 
 
 The repository is organized into different folders by **domain/technology** for easy navigation:  
 
-### 🔹 Programming Languages  
-- Python  
-- JavaScript  
-- Java  
-- C / C++  
-- Go  
-- Rust  
-
 ### 🔹 Data Science & AI  
 - Machine Learning  
 - Deep Learning  
 - Natural Language Processing (NLP)  
 - Data Engineering  
 - Statistics  
-
-### 🔹 Cloud & DevOps  
-- AWS  
-- Docker & Kubernetes  
-- CI/CD & Automation  
-- Infrastructure as Code  
-
-### 🔹 Web Development  
-- Frontend (HTML, CSS, React, Vue.js)  
-- Backend (Node.js, Django, Flask)  
-- Full-Stack Development  
-
-### 🔹 Databases  
-- SQL & NoSQL  
-- MongoDB, PostgreSQL, MySQL  
-- Data Warehousing & Big Data  
 
 ### 🔹 Cybersecurity & Networking  
 - Ethical Hacking  
