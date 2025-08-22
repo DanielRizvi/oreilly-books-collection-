@@ -35,7 +35,7 @@ The repository is organized into different folders by **domain/technology** for 
 
 ### 🔹 Data Science & AI  
 
-## 📘 Machine Learning
+# 📘 Machine Learning
 - [Building Machine Learning Powered Applications: Going from Idea to Product](Data-Science-and-AI/Machine-Learning/Building-Machine-Learning-Powered-Applications-Going-from-Idea-to-Product.pdf)
 - [Practical Machine Learning for Computer Vision: End-to-End ML for Images](Data-Science-and-AI/Machine-Learning/Practical-Machine-Learning-for-Computer-Vsion-End-to-End-Machine-Learning-for-Images.pdf)
 - [Low-Code AI: A Practical Project-Driven Introduction to Machine Learning](Data-Science-and-AI/Machine-Learning/Low-Code-AI-A-Practical-Project-Driven-Introduction-to-Machine-Learning.pdf)
