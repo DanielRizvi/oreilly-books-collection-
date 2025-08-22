@@ -1,4 +1,4 @@
-# 📚 My Favorite O’Reilly Books Collection  
+# 📚 My O’Reilly Books Collection  
 
 Welcome to this repository! 🚀  
 Here, I’ve compiled some of my **favorite O’Reilly books in PDF format** that have inspired, guided, and strengthened my understanding of **Computer Science, Data Science, Artificial Intelligence, Programming, and Technology**.  
