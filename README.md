@@ -65,6 +65,8 @@ The repository is organized into different folders by **domain/technology** for 
 ### 🏗️ System Architecture
 - [Mastering API Architecture - Design, Operate and Evolve API-Based Systems](Data-Science-and-AI/System-Architecture/Mastering-API-Architecture-Design-Operate-and-Evolve-API-Based-Systems.pdf)
 
+---
+
 ## 🔹 Internet of Things (IoT)
 ### 💬 IoT
 - [Programming the Internet of Things](Data-Science-and-AI/IoT/Programming-The-Internet-of-Things.pdf)  
