@@ -47,12 +47,24 @@ The repository is organized into different folders by **domain/technology** for 
 - [Generative Deep Learning](Data-Science-and-AI/Deep-Learning/Generative-Deep-Learning.pdf)
 - [Deep Learning for the Life Sciences - Applying Deep Learning to Genomics, Microscopy & Drug Discovery](Data-Science-and-AI/Deep-Learning/Deep-Learning-for-the-Life-Sciences-Applying-Deep-Learning-to-Genomics-Microscopy-Drug-Discovery.pdf)
 
+### 📘 LLMs (Large Language Models)
+- [Hands On Large Language Models](Data-Science-and-AI/LLMs/Hands-On-Large-Language-Models.pdf)
 
+### 📘 Explainable AI
+- [Explainable AI for Practitioners](Data-Science-and-AI/Explainable-AI/Explainable-AI-for-Practitioners.pdf)
 
-### 🔹 Cybersecurity & Networking  
-- Ethical Hacking  
-- Cryptography  
-- Network Protocols  
+### 📘 NLP
+- [NLP with Transformer Models](Data-Science-and-AI/NLP/NLP-with-Transformer-Models.pdf)
+
+### 📘 Reinforcement Learning
+- [Reinforcement Learning - Industrial Applications of Intelligent Agents](Data-Science-and-AI/Reinforcement-Learning/Reinforcement-Learning-Industrial-Applications-of-Intelligent-Agents.pdf)
+
+### 📘 MLOps
+- [Practical MLOps - Operationalizing Machine Learning Models](Data-Science-and-AI/MLOps/Practical-MLOps-Operationalizing-Machine-Learning-Models.pdf)
+
+### 📘 System Architecture
+- [Mastering API Architecture - Design, Operate and Evolve API-Based Systems](Data-Science-and-AI/System-Architecture/Mastering-API-Architecture-Design-Operate-and-Evolve-API-Based-Systems.pdf)
+
 
 ### 🔹 Other Interesting Reads  
 - Software Architecture  
