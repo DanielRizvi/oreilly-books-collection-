@@ -41,8 +41,13 @@ The repository is organized into different folders by **domain/technology** for 
 - [Low-Code AI: A Practical Project-Driven Introduction to Machine Learning](Data-Science-and-AI/Machine-Learning/Low-Code-AI-A-Practical-Project-Driven-Introduction-to-Machine-Learning.pdf)
 
 ### 📘 AI
-- [AI Engineering](Data-Science-and-AI/AI/AI Engineering.pdf)
-- 
+- [AI Engineering PDF](Data-Science-and-AI/AI/AI%20Engineering.pdf)
+
+### 📘 Deep Learning
+- [Generative Deep Learning](Data-Science-and-AI/Deep-Learning/Generative-Deep-Learning.pdf)
+- [Deep Learning for the Life Sciences - Applying Deep Learning to Genomics, Microscopy & Drug Discovery](Data-Science-and-AI/Deep-Learning/Deep-Learning-for-the-Life-Sciences-Applying-Deep-Learning-to-Genomics-Microscopy-Drug-Discovery.pdf)
+
+
 
 ### 🔹 Cybersecurity & Networking  
 - Ethical Hacking  
