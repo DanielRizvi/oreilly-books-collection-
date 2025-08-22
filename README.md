@@ -87,19 +87,13 @@ I handpicked these because they:
 
 ---
 
-## 📌 Example Book List  
+## 📌 New Release 
 
-A glimpse of what you’ll find here:  
-
-- *Learning Python (5th Edition)*  
-- *Fluent Python*  
-- *Python for Data Analysis*  
-- *Deep Learning with Python*  
-- *Designing Data-Intensive Applications*  
-- *Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow*  
-- *Kubernetes Up & Running*  
-- *JavaScript: The Definitive Guide*  
-- *AI Superpowers* (non-O’Reilly special read)  
+- Terraform at Scale — by Robert Glenn 
+- Apache Polaris: The Definitive Guide — by Alex Merced, Andrew Madson & Tomer Shiran 
+- Beyond Vibe Coding — by Addy Osmani 
+- Service Fabrics and Unified Platforms — by Joseph Holbrook, Aleks Haugom & Jaxon Repp
+- Fundamentals of Data Engineering — by Joe Reis & Matt Housley
 
 _(More being added regularly 🚀)_  
 
