@@ -35,42 +35,35 @@ The repository is organized into different folders by **domain/technology** for 
 
 ## 🔹 Data Science & AI  
 
-### 📘 Machine Learning
+### 🤖 Machine Learning
 - [Building Machine Learning Powered Applications: Going from Idea to Product](Data-Science-and-AI/Machine-Learning/Building-Machine-Learning-Powered-Applications-Going-from-Idea-to-Product.pdf)
 - [Practical Machine Learning for Computer Vision: End-to-End ML for Images](Data-Science-and-AI/Machine-Learning/Practical-Machine-Learning-for-Computer-Vsion-End-to-End-Machine-Learning-for-Images.pdf)
 - [Low-Code AI: A Practical Project-Driven Introduction to Machine Learning](Data-Science-and-AI/Machine-Learning/Low-Code-AI-A-Practical-Project-Driven-Introduction-to-Machine-Learning.pdf)
 
-### 📘 AI
+### 🧠 AI
 - [AI Engineering PDF](Data-Science-and-AI/AI/AI%20Engineering.pdf)
 
-### 📘 Deep Learning
+### 🔬 Deep Learning
 - [Generative Deep Learning](Data-Science-and-AI/Deep-Learning/Generative-Deep-Learning.pdf)
 - [Deep Learning for the Life Sciences - Applying Deep Learning to Genomics, Microscopy & Drug Discovery](Data-Science-and-AI/Deep-Learning/Deep-Learning-for-the-Life-Sciences-Applying-Deep-Learning-to-Genomics-Microscopy-Drug-Discovery.pdf)
 
-### 📘 LLMs (Large Language Models)
+### 📖 LLMs (Large Language Models)
 - [Hands On Large Language Models](Data-Science-and-AI/LLMs/Hands-On-Large-Language-Models.pdf)
 
-### 📘 Explainable AI
+### 🔍 Explainable AI
 - [Explainable AI for Practitioners](Data-Science-and-AI/Explainable-AI/Explainable-AI-for-Practitioners.pdf)
 
-### 📘 NLP
+### 💬 NLP
 - [NLP with Transformer Models](Data-Science-and-AI/NLP/NLP-with-Transformer-Models.pdf)
 
-### 📘 Reinforcement Learning
+### 🎮 Reinforcement Learning
 - [Reinforcement Learning - Industrial Applications of Intelligent Agents](Data-Science-and-AI/Reinforcement-Learning/Reinforcement-Learning-Industrial-Applications-of-Intelligent-Agents.pdf)
 
-### 📘 MLOps
+### ⚙️ MLOps
 - [Practical MLOps - Operationalizing Machine Learning Models](Data-Science-and-AI/MLOps/Practical-MLOps-Operationalizing-Machine-Learning-Models.pdf)
 
-### 📘 System Architecture
+### 🏗️ System Architecture
 - [Mastering API Architecture - Design, Operate and Evolve API-Based Systems](Data-Science-and-AI/System-Architecture/Mastering-API-Architecture-Design-Operate-and-Evolve-API-Based-Systems.pdf)
-
-
-### 🔹 Other Interesting Reads  
-- Software Architecture  
-- Agile & Scrum  
-- System Design  
-- Productivity & Career Guides  
 
 ---
 
