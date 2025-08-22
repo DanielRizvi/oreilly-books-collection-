@@ -40,10 +40,9 @@ The repository is organized into different folders by **domain/technology** for 
 - [Practical Machine Learning for Computer Vision: End-to-End ML for Images](Data-Science-and-AI/Machine-Learning/Practical-Machine-Learning-for-Computer-Vsion-End-to-End-Machine-Learning-for-Images.pdf)
 - [Low-Code AI: A Practical Project-Driven Introduction to Machine Learning](Data-Science-and-AI/Machine-Learning/Low-Code-AI-A-Practical-Project-Driven-Introduction-to-Machine-Learning.pdf)
 
-- Deep Learning  
-- Natural Language Processing (NLP)  
-- Data Engineering  
-- Statistics  
+### 📘 AI
+- [AI Engineering](Data-Science-and-AI/AI/AI Engineering.pdf)
+- 
 
 ### 🔹 Cybersecurity & Networking  
 - Ethical Hacking  
