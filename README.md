@@ -159,6 +159,6 @@ If you find this repo helpful:
 - 👤 Maintainer: **Danial Rizvi**  
 - 📧 Email: danielrizvi786@gmail.com 
 - 🐦 Twitter: [@DanielRizvi](https://x.com/DanielRizvi)  
-- 💼 LinkedIn: [Danial Rizvi](https://www.linkedin.com/in/danial-rizvi-531758214/)
+- 💼 LinkedIn: [Danial Rizvi](https://www.linkedin.com/in/danial-rizvi-531758214/) ok
 
  
